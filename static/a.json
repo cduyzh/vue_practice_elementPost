@@ -1,0 +1,25 @@
+[{
+        "goodsName": "可乐大杯",
+        "price": 10,
+        "count": "1",
+        "goodsId": 7
+    },
+    {
+        "goodsName": "香辣鸡腿堡",
+        "price": 15,
+        "count": 1,
+        "goodsId": 1
+    },
+    {
+        "goodsName": "大包薯条",
+        "price": 18,
+        "count": 1,
+        "goodsId": 4
+    },
+    {
+        "goodsName": "雪顶咖啡",
+        "price": 18,
+        "count": "1",
+        "goodsId": 8
+    }
+]
